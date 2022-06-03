@@ -28,10 +28,10 @@ To preprocess genetic data (SNPs), first obtain VCF files from ADNI. Then use th
 
 ## Training and Evaluation
 
-```
+
 To train and evaluate a uni-modal model baseline, run train_clinical.py, train_genetic.py, or train_imaging.py.
 To train and evaluate the multimodal architecture, run train_all_modalities.py.
-```
+
 
 ## Citation 
 
