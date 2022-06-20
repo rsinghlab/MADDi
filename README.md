@@ -47,3 +47,7 @@ Some of the structure in this repopository was adopted from https://github.com/s
 ## Authors
 
 [Michal Golovanevsky](https://github.com/michalg04)
+
+Carsten Eickhoff
+
+Ritambhara Singh
