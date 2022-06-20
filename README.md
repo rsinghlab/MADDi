@@ -33,13 +33,6 @@ To train and evaluate a uni-modal model baseline, run train_clinical.py, train_g
 To train and evaluate the multimodal architecture, run train_all_modalities.py.
 
 
-## Citation 
-
-If you use this code in your research, please cite our work using: 
-```
-@inproceedings{}
-```
-
 ## Credits
 
 Some of the structure in this repopository was adopted from https://github.com/soujanyaporia/contextual-multimodal-fusion
