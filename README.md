@@ -1,6 +1,6 @@
 # MADDi - Multimodal Alzheimers Disease Diagnosis framework
 Code for the paper [Multimodal Attention-based Deep Learning for Alzheimer’s
-Disease Diagnosis](insert link).
+Disease Diagnosis](https://arxiv.org/abs/2206.08826).
 
 ## Dataset
 We provide results on the [Alzheimer's Disease Neuroimaging Initiative (ADNI) dataset](https://adni.loni.usc.edu/). The data is not provided in this repository and needs to be requested directly from ADNI.   
