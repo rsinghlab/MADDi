@@ -1,6 +1,5 @@
-# MADDi - Multimodal Alzheimers Disease Diagnosis framework
-Code for the paper [Multimodal Attention-based Deep Learning for Alzheimer’s
-Disease Diagnosis](https://arxiv.org/abs/2206.08826).
+# Multimodal Attention for Alzheimer's Disease Classification
+Code for the paper [insert title here](insert link).
 
 ## Dataset
 We provide results on the [Alzheimer's Disease Neuroimaging Initiative (ADNI) dataset](https://adni.loni.usc.edu/). The data is not provided in this repository and needs to be requested directly from ADNI.   
@@ -28,15 +27,22 @@ To preprocess genetic data (SNPs), first obtain VCF files from ADNI. Then use th
 
 ## Training and Evaluation
 
-
+```
 To train and evaluate a uni-modal model baseline, run train_clinical.py, train_genetic.py, or train_imaging.py.
 To train and evaluate the multimodal architecture, run train_all_modalities.py.
+```
 
+## Citation 
+
+If you use this code in your research, please cite our work using: 
+```
+@inproceedings{}
+```
 
 ## Credits
 
-Some of the structure in this repopository was adopted from https://github.com/soujanyaporia/contextual-multimodal-fusion
+Some of the structure in this repo was adopted from https://github.com/soujanyaporia/contextual-multimodal-fusion
 
 ## Authors
 
-[Michal Golovanevsky](https://github.com/michalg04), Carsten Eickhoff, and Ritambhara Singh
+[Michal Golovanevsky](https://github.com/michalg04)
