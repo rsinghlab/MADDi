@@ -1,5 +1,5 @@
 # Multimodal Attention for Alzheimer's Disease Classification
-Code for the paper [insert title here](insert link).
+Code for the paper [Multimodal Attention-based Deep Learning for Alzheimer's Disease Diagnosis](https://arxiv.org/abs/2206.08826).
 
 ## Dataset
 We provide results on the [Alzheimer's Disease Neuroimaging Initiative (ADNI) dataset](https://adni.loni.usc.edu/). The data is not provided in this repository and needs to be requested directly from ADNI.   
@@ -27,17 +27,10 @@ To preprocess genetic data (SNPs), first obtain VCF files from ADNI. Then use th
 
 ## Training and Evaluation
 
-```
 To train and evaluate a uni-modal model baseline, run train_clinical.py, train_genetic.py, or train_imaging.py.
 To train and evaluate the multimodal architecture, run train_all_modalities.py.
-```
 
-## Citation 
 
-If you use this code in your research, please cite our work using: 
-```
-@inproceedings{}
-```
 
 ## Credits
 
