@@ -12,10 +12,12 @@ Further details on all packages used in this repository can be found in general/
 ## Description
 In this work, we presented a multi-modal, multi-task, attention-based deep learning framework to detect Alzheimer's disease using genetic, clinical, and imaging data from ADNI.
 
+<img src="https://user-images.githubusercontent.com/35315239/187262625-0f980b94-7cce-49ec-9041-421e56b67ecd.png" width="600">
+
 This repository contains the code for the mentioned paper. The model architecture above is located in training/train_all_modalities.py. 
 
 ## Preprocessing
-To create a list of patient ids with their diagnosis, run the notebook general/diagnosis_making.ipynb. 
+To create a list of patient IDs with their diagnosis, run the notebook general/diagnosis_making.ipynb. 
 
 To preprocess clinical data run the notebook preprocess_clincal/create_clinical_dataset.ipynb, which will create a CSV file with the necessary data.
 
