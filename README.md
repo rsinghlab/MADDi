@@ -10,7 +10,7 @@ Tensorflow 2.6.0
 Further details on all packages used in this repository can be found in general/requirements.txt
 
 ## Description
-In this work, we presented a multi-modal, multi-task, attention-based deep learning framework to detect Alzheimer's disease using genetic, clinical, and imaging data from ADNI.
+In this work, we presented a multi-modal, multi-class, attention-based deep learning framework to detect Alzheimer's disease using genetic, clinical, and imaging data from ADNI.
 
 <img src="https://user-images.githubusercontent.com/35315239/187262625-0f980b94-7cce-49ec-9041-421e56b67ecd.png" width="600">
 
